@@ -124,7 +124,7 @@ st.markdown("""
 tab1, tab2, tab3, tab4, tab5 = st.tabs(["🏠 About", "💼 Experience", "🚀 Projects", "🛠️ Skills", "📞 Contact"])
 
 with tab1:
-    st.markdown('<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;"><h2 style="margin: 0; color: #1E90FF;">About Me</h2> <a href="https://drive.google.com/file/d/1Trf_k8mF0WYgBJ1jvhW01mrXcbepQ0hi/view" target="_blank" style="font-size: 0.8rem; color: #FFD700; text-decoration: none; border: 1px solid #FFD700; padding: 4px 10px; border-radius: 4px;transition: all 0.3s ease;">Resume</a></h2>', unsafe_allow_html=True)
+    st.markdown('<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;"><h2 style="margin: 0; color: #1E90FF;">About Me</h2> <a href="https://drive.google.com/file/d/17XkuvZgIJS2oH9jCCpRJhq81VXyTZ4CP/view" target="_blank" style="font-size: 0.8rem; color: #FFD700; text-decoration: none; border: 1px solid #FFD700; padding: 4px 10px; border-radius: 4px;transition: all 0.3s ease;">Resume</a></h2>', unsafe_allow_html=True)
     
     col1, col2 = st.columns([2, 1])
     
