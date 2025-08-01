@@ -112,8 +112,9 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>🚀 Sai Yashwanth Dasari</h1>
-    <h3>AI/ML Engineer & Full-Stack Developer</h3>
-    <p>Building intelligent solutions with cutting-edge technology</p>
+    <h3>Backend Developer | 2025 Graduate</h3>
+    <p>Creating reliable, efficient backend applications using Python & FastAPI</p>
+
 
     
 </div>
